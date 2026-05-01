@@ -1,5 +1,5 @@
 # mi-perfil
-Un repositorio para actividades específicas de UCompensar para la materia Ingeniería de Software.
+Un repositorio para actividades específicas de UCompensar para la materia Ingeniería de Software. Propuesta de la Universidad de Costa Rica.
 
 
 # 👋🏽 Hola, soy Alejandro Medina.
@@ -13,3 +13,9 @@ Este es mi primer repositorio.
  - Java
  - SQL
  - Cálculo Diferencial
+
+
+## 📚 Próximos pasos
+- Hacer más commits
+- Crear más proyectos
+- Colaborar con otros
