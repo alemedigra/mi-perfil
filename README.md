@@ -15,7 +15,3 @@ Este es mi primer repositorio.
  - Cálculo Diferencial
 
 
-## 📚 Próximos pasos
-- Hacer más commits
-- Crear más proyectos
-- Colaborar con otros
